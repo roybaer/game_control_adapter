@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name game_control_adapter)(type KiCad)(uri "/home/benedikt/retro/Game Control Adapter/game_control_adapter")(options "")(descr ""))
+)
